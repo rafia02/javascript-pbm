@@ -53,6 +53,35 @@ const newReplese = replease.replace(/farmwork/g, "laibary")
 
 
 // 5. perfomence chek korar jonno 
+const fst = performance.now()
+
+
+for( i = 0; i <= 80 ; i++){
+    // console.log(i)
+}
+
+const lst = performance.now()
+
+// console.log(lst - fst)
+
+
+// 6. swaping the valu 
+ 
+// let array = [1, 2, 3, 4, 5]
+
+// // old way 
+// // const temp = array[4]
+// // array[4] = array[0] 
+// // array[0] = temp
+// // console.log(array)
+
+// // latest way 
+
+// // use by array distracture way 
+
+// [array[0], array[4]] = [array[4], array[0]]
+// console.log(array)
+
 
 
 

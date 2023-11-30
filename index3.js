@@ -13,6 +13,8 @@ console.log(nd())
 
 
 
+
+// closer 
 // console.log(x)
 
 // if(true){

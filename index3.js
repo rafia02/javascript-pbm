@@ -8,7 +8,10 @@ function check (){
 }
 
 
+
+
 const nd = check()
+console.log(nd())
 console.log(nd())
 
 

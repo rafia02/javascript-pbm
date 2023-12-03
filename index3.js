@@ -11,6 +11,7 @@ function check (){
 
 
 const nd = check()
+const nds = check()
 console.log(nd())
 console.log(nd())
 
